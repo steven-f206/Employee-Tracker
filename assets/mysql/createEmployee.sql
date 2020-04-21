@@ -1,9 +1,9 @@
 /* To create database run the scripts in this file */
-DROP DATABASE employeeTracker_db
+DROP DATABASE employeeTracker_db;
 
-CREATE DATABASE employeeTracker_db
+CREATE DATABASE employeeTracker_db;
 
-USE employeeTracker_db
+USE employeeTracker_db;
 
 DROP TABLE department;
 
