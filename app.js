@@ -1,6 +1,6 @@
 const cli = require('./lib/cli');
 
-// Create Connection
+// Runs Application
 let init = () => {
     cli();
 };
